@@ -1,13 +1,12 @@
 const items = require("./data/items");
 const tags = require("./data/tags");
 const brands = require("./data/brands");
-const itemTypes = require("./data/itemTypes");
+const redbus = require("./data/redbus.json");
 
 module.exports = {
-  items,
   tags,
   brands,
-  itemTypes
+  redbus
 }
 
 
