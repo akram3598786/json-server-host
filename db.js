@@ -1,11 +1,13 @@
 const tags = require("./data/tags");
 const brands = require("./data/brands");
 const redbus = require("./data/redbus.json");
+const Tickets = require("./data/Tickets.json");
 
 module.exports = {
   tags,
   brands,
-  redbus
+  redbus,
+  Tickets
 }
 
 
