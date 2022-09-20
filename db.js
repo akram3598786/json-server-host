@@ -2,12 +2,16 @@ const tags = require("./data/tags");
 const brands = require("./data/brands");
 const redbus = require("./data/redbus.json");
 const Tickets = require("./data/Tickets.json");
+const UpperSeats = require("./data/UpperSeats.json");
+const LowerSeats = require("./data/LowerSeats.json");
 
 module.exports = {
   tags,
   brands,
   redbus,
-  Tickets
+  Tickets,
+  UpperSeats,
+  LowerSeats
 }
 
 
@@ -18,8 +22,6 @@ module.exports = {
 //   var tags = items.map((i) => i.tags);
 //   tags = [].concat.apply([], tags);
 //   tags = [...new Set(tags)];
-
- 
 
 //   var brands = items.map((i) => i.manufacturer);
 //   brands = [...new Set(brands)];
