@@ -1,5 +1,4 @@
-{
-    "lowerDeck_seats": [
+ [
         {
           "id": 49,
           "extra_price": 0,
@@ -235,4 +234,3 @@
           "Gender": "Female"
         }
       ]
-}
