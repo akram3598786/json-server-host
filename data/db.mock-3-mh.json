@@ -1,0 +1,31 @@
+
+  [
+    {
+      "name": "Mohit sharma",
+      "age": "21",
+      "state": "rajasthan",
+      "year": "2022",
+      "id": 2
+    },
+    {
+      "name": "Mohit sharma",
+      "age": "22",
+      "state": "rajasthan",
+      "year": "2022",
+      "id": 3
+    },
+    {
+      "name": "mohit pw4_004",
+      "age": "30",
+      "state": "jaipur",
+      "year": "2024",
+      "id": 6
+    },
+    {
+      "name": "mohit",
+      "age": "18",
+      "state": "maharastra",
+      "year": "2023",
+      "id": 7
+    }
+  ]
