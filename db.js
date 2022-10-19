@@ -4,6 +4,7 @@ const redbus = require("./data/redbus.json");
 const Tickets = require("./data/Tickets.json");
 const UpperSeats = require("./data/UpperSeats.json");
 const LowerSeats = require("./data/LowerSeats.json");
+const users = require("./data/users-mock-c3.json");
 
 module.exports = {
   tags,
@@ -11,7 +12,8 @@ module.exports = {
   redbus,
   Tickets,
   UpperSeats,
-  LowerSeats
+  LowerSeats,
+  users
 }
 
 
