@@ -6,6 +6,7 @@ const UpperSeats = require("./data/UpperSeats.json");
 const LowerSeats = require("./data/LowerSeats.json");
 const users = require("./data/users-mock-c3.json");
 const db_m = require("./data/db.mock-3-mh.json");
+const todos = require("./data/todos.json");
 
 module.exports = {
   tags,
@@ -15,7 +16,8 @@ module.exports = {
   UpperSeats,
   LowerSeats,
   users,
-  db_m
+  db_m,
+  todos
 }
 
 
