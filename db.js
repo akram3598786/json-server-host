@@ -8,8 +8,6 @@ const db_m = require("./data/db.mock-3-mh.json");
 const todos = require("./data/todos.json");
 
 module.exports = {
-  tags,
-  brands,
   redbus,
   Tickets,
   UpperSeats,
