@@ -1,5 +1,4 @@
-const tags = require("./data/tags");
-const brands = require("./data/brands");
+
 const redbus = require("./data/redbus.json");
 const Tickets = require("./data/Tickets.json");
 const UpperSeats = require("./data/UpperSeats.json");
